@@ -1,1 +1,1 @@
-# PC-assemble
+# PC assembly : The PC assembly assignment provided a hands-on learning experience, allowing me to understand the intricacies of hardware components and their compatibility. It was a practical exercise that enriched my technical skills and problem-solving abilities, fostering a deeper appreciation for the inner workings of computers.
